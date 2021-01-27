@@ -1,0 +1,18 @@
+{
+  "name": "zzc-tool",
+  "version": "0.0.1",
+  "description": "zzc-tool",
+  "main": "lib/index.js",
+  "bin": {
+    "zzc-tool": "./lib/index.js"
+  },
+  "repository": "https://github.com/MrZhangZc/zzc-tool.git",
+  "author": "zzc <zhichao.zhang@colorv.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cli-table2": "^0.2.0",
+    "clipboardy": "^2.3.0",
+    "commander": "^7.0.0"
+  }
+}
