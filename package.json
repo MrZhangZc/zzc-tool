@@ -4,7 +4,7 @@
   "description": "zzc-tool",
   "main": "lib/index.js",
   "bin": {
-    "zzc": "./lib/index.js"
+    "zzc-tool": "./lib/index.js"
   },
   "repository": "https://github.com/MrZhangZc/zzc-tool.git",
   "author": "zzc <zhichao.zhang@colorv.com>",
