@@ -1,12 +1,13 @@
 module.exports = {
   yd_key: '868480929',
-  userId: '',
-  base_url: '',
-  url: '',
-  account: '',
-  password: '',
-  mySshPass: '',
-  login_url: '',
-  aliyunPass: '',
-  aliaddress: ''
+  userId: 21460827,
+  base_url: 'https://mng.colorv.com/mng/node/',
+  url: '/general/all_user/feedback_answer',
+  imUrl: '/general/all_user/send_im',
+  account: 'zhichao.zhang',
+  password: 'Kobe241298',
+  mySshPass: 'kobe241298',
+  login_url: 'https://mng.colorv.com/mng/node/general/user/login_',
+  aliyunPass: 'kobe241298hm',
+  aliaddress: 'zzc_manager@60.205.212.67'
 }
